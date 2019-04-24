@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "745336035479",
+    "firebase_url": "https://phoneauthenticationdemo-46eae.firebaseio.com",
+    "project_id": "phoneauthenticationdemo-46eae",
+    "storage_bucket": "phoneauthenticationdemo-46eae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745336035479:android:a8f96506cdcb4eb4",
+        "android_client_info": {
+          "package_name": "com.ovi.phoneauthenticationdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745336035479-ctnbgbkbsmetscusa63ccrcmo1trvinf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ovi.phoneauthenticationdemo",
+            "certificate_hash": "0ca7bb3cb22e335666b15d6a094b26e861b99b6b"
+          }
+        },
+        {
+          "client_id": "745336035479-84fc6einlh3atku8ga61fjr0k6ka513o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQRlxYkEHVCYw1Bmmm1K8NEa5wS_THUfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745336035479-84fc6einlh3atku8ga61fjr0k6ka513o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
